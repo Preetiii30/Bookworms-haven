@@ -4,12 +4,15 @@ Bookworms Haven: An e-commerce bookstore built with the MERN stack, featuring us
 # Features:
 
 User Authentication
+
 -Signup, Login, and Logout: Secure user authentication system to manage user sessions.
 
 Landing Page
+
 *Categories and New Arrivals:* A well-structured landing page showcasing different book categories and newly arrived books.
 
 Product Listing Page
+
 *Sort and Filter Products:*
 -Sort by Price: Low to High and High to Low.
 -Filter by Price Range: Minimum and Maximum price range.
@@ -20,10 +23,12 @@ Product Listing Page
 -Clear All Filters: Option to reset all applied filters.
 
 Wishlist Management
+
 -Add / Remove from Wishlist: Easily manage your wishlist by adding or removing books.
 -Add to Cart from Wishlist: Move items from wishlist to cart.
 
 Cart Management
+
 *Add to Cart:* Add books to your cart.
 *Change Quantity:* Adjust the quantity of books in the cart.
 *Remove from Cart:* Remove books from the cart.
@@ -31,22 +36,28 @@ Cart Management
 *Apply Coupon:* Apply discount coupons.
 
 Single Product Page
+
 *Detailed View:* View detailed information about each book.
 *Order Summary:* Review the summary of ordered items before checkout.
 
 Custom Toast Notifications
+
 *Success, Error, Warning, and Information:* Custom toast notifications for various user actions.
 
 Payment Integration
+
 *Razorpay:* Secure payment integration using Razorpay.
 
 Orders Page
+
 *Order History:* View the history of all placed orders.
 
 Search Functionality
+
 *Search Bar:* Search books by book name and author name.
 
 Pagination
+
 *Paginate Products:* Efficient pagination for browsing books.
 
 ## Available Scripts
