@@ -29,16 +29,16 @@ Wishlist Management
 
 Cart Management
 
-*Add to Cart:* Add books to your cart.
-*Change Quantity:* Adjust the quantity of books in the cart.
-*Remove from Cart:* Remove books from the cart.
-*Add to Wishlist from Cart:* Move items from cart to wishlist.
-*Apply Coupon:* Apply discount coupons.
+*1. Add to Cart:* Add books to your cart.
+*2. Change Quantity:* Adjust the quantity of books in the cart.
+*3. Remove from Cart:* Remove books from the cart.
+*4. Add to Wishlist from Cart:* Move items from cart to wishlist.
+*5. Apply Coupon:* Apply discount coupons.
 
 Single Product Page
 
-*Detailed View:* View detailed information about each book.
-*Order Summary:* Review the summary of ordered items before checkout.
+*1.Detailed View:* View detailed information about each book.
+*2.Order Summary:* Review the summary of ordered items before checkout.
 
 Custom Toast Notifications
 
