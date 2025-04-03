@@ -1,71 +1,84 @@
-# Bookworms-haven
-Bookworms Haven: An e-commerce bookstore built with the MERN stack, featuring user authentication, product sorting and filtering, wishlist and cart management, Razorpay payment integration, and more. 
+# 📚 Bookworms Haven
 
-# Features:
+**Bookworms Haven** is an e-commerce bookstore built with the **MERN stack**, offering a seamless book shopping experience. It includes user authentication, product sorting and filtering, wishlist and cart management, Razorpay payment integration, and much more.
 
-User Authentication
+---
 
--Signup, Login, and Logout: Secure user authentication system to manage user sessions.
+## 🚀 Features
 
-Landing Page
+### 🔐 User Authentication
+- **Signup, Login, and Logout**: Secure authentication system to manage user sessions.
 
-*Categories and New Arrivals:* A well-structured landing page showcasing different book categories and newly arrived books.
+### 🏠 Landing Page
+- **Categories & New Arrivals**: A well-structured homepage showcasing different book categories and new arrivals.
 
-Product Listing Page
+### 📖 Product Listing Page
+- **Sort and Filter Products:**
+  - 📊 **Sort by Price**: Low to High / High to Low.
+  - 💰 **Filter by Price Range**: Set min/max price.
+  - 📚 **Filter by Genre**: Choose from various genres.
+  - ⭐ **Filter by Rating**: Filter based on book ratings.
+  - ❌ **Out of Stock**: Include/exclude out-of-stock books.
+  - 🚀 **Fast Delivery**: Filter books with fast delivery.
+  - 🔄 **Clear All Filters**: Reset all applied filters.
 
-*Sort and Filter Products:*
--Sort by Price: Low to High and High to Low.
--Filter by Price Range: Minimum and Maximum price range.
--Filter by Genre: Various book genres categories.
--Filter by Rating: Average product rating.
--Out of Stock: Include or exclude out of stock products.
--Fast Delivery: Filter products by fast delivery availability.
--Clear All Filters: Option to reset all applied filters.
+### ❤️ Wishlist Management
+- ➕ **Add / Remove from Wishlist**: Manage your favorite books.
+- 🛒 **Add to Cart from Wishlist**: Move items from wishlist to cart.
 
-Wishlist Management
+### 🛍️ Cart Management
+- ➕ **Add to Cart**: Add books to your shopping cart.
+- 🔄 **Change Quantity**: Adjust the book quantity.
+- ❌ **Remove from Cart**: Delete books from the cart.
+- ❤️ **Move to Wishlist**: Save for later.
+- 💸 **Apply Coupon**: Use discount codes at checkout.
 
--Add / Remove from Wishlist: Easily manage your wishlist by adding or removing books.
--Add to Cart from Wishlist: Move items from wishlist to cart.
+### 📘 Single Product Page
+- 📑 **Detailed View**: Get complete book details.
+- 📝 **Order Summary**: Review your selected books before checkout.
 
-Cart Management
+### 🔔 Custom Toast Notifications
+- 🎉 **Success, Error, Warning, and Information**: User-friendly notifications for different actions.
 
-*1. Add to Cart:* Add books to your cart.
-*2. Change Quantity:* Adjust the quantity of books in the cart.
-*3. Remove from Cart:* Remove books from the cart.
-*4. Add to Wishlist from Cart:* Move items from cart to wishlist.
-*5. Apply Coupon:* Apply discount coupons.
+### 💳 Payment Integration
+- 🔒 **Razorpay**: Secure online payment integration.
 
-Single Product Page
+### 📜 Orders Page
+- 📅 **Order History**: View and track previous purchases.
 
-*1.Detailed View:* View detailed information about each book.
-*2.Order Summary:* Review the summary of ordered items before checkout.
+### 🔍 Search Functionality
+- **Search by Book Name / Author Name**: Quickly find your favorite books.
 
-Custom Toast Notifications
+### 📑 Pagination
+- 📚 **Paginate Products**: Efficient browsing experience.
 
-*Success, Error, Warning, and Information:* Custom toast notifications for various user actions.
+---
 
-Payment Integration
+## 🛠️ Available Scripts
 
-*Razorpay:* Secure payment integration using Razorpay.
-
-Orders Page
-
-*Order History:* View the history of all placed orders.
-
-Search Functionality
-
-*Search Bar:* Search books by book name and author name.
-
-Pagination
-
-*Paginate Products:* Efficient pagination for browsing books.
-
-## Available Scripts
 In the project directory, you can run:
 
-### npm start <br>
-Runs the app in the development mode.
-Open http://localhost:3000 to view it in your browser.
+```bash
+npm start
+```
+
+Runs the app in development mode.<br>
+Open **[http://localhost:3000](http://localhost:3000)** to view it in your browser.
+
+---
+
+### 📌 Technologies Used:
+- **MongoDB** - Database
+- **Express.js** - Backend framework
+- **React.js** - Frontend library
+- **Node.js** - Server-side runtime
+- **Razorpay** - Payment gateway
+- **JWT** - Authentication
+
+---
+
+💙 **Happy Reading & Coding!** 📚
+
 
 The page will reload when you make changes.
 You may also see any lint errors in the console.
